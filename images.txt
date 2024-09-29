@@ -1,4 +1,5 @@
 #支持私库
-gitlab/gitlab-ce
+flannel/flannel-cni-plugin:v1.5.1-flannel2
+flannel/flannel:v0.25.6
 #支持指定架构
 #--platform=linux/arm64
