@@ -1,4 +1,4 @@
 #支持私库
-flannel/flannel:v0.25.6
+k8s.gcr.io/coredns/coredns:v1.8.0
 #支持指定架构
 #--platform=linux/arm64
