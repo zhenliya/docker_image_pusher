@@ -1,4 +1,4 @@
 #支持私库
-gmoney23/nfs-client-provisioner
+kubesphere/ks-installer:v3.3.2
 #支持指定架构
 #--platform=linux/arm64
