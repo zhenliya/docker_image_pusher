@@ -2,4 +2,3 @@
 gmoney23/nfs-client-provisioner
 #支持指定架构
 #--platform=linux/arm64
-#
