@@ -4,7 +4,8 @@
 #kubesphere/prometheus-operator:v0.55.1
 #kubesphere/prometheus-config-reloader:v0.55.1
 #kubesphere/devops-tools:ks-v3.3.2
-kubesphere/devops-apiserver:ks-v3.3.2
+#kubesphere/devops-apiserver:ks-v3.3.2
 #kubesphere/devops-controller:ks-v3.3.2
+kubesphere/ks-jenkins:v3.3.0-2.319.1
 #支持指定架构
 #--platform=linux/arm64
