@@ -3,6 +3,6 @@
 #kubesphere/ks-controller-manager:v3.3.2
 #kubesphere/prometheus-operator:v0.55.1
 #kubesphere/prometheus-config-reloader:v0.55.1
-ubesphere/devops-tools:ks-v3.3.2
+kubesphere/devops-tools:ks-v3.3.2
 #支持指定架构
 #--platform=linux/arm64
