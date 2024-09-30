@@ -1,5 +1,6 @@
 #支持私库
 #kubesphere/ks-console:v3.3.2
-kubesphere/ks-controller-manager:v3.3.2
+#kubesphere/ks-controller-manager:v3.3.2
+kubesphere/prometheus-operator:v0.55.1
 #支持指定架构
 #--platform=linux/arm64
