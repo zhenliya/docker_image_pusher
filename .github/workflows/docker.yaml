@@ -131,7 +131,7 @@ jobs:
             # 获取镜像名例  例如nginx
             image_name=$(echo "$image_name_tag" | awk -F':' '{print $1}')
         
-            name_space_prefix=""
+            name_space_prefix="flannel2"
             # 如果镜像名重名
             if [[ -n "${duplicate_images[$image_name]}" ]]; then
                #如果命名空间非空，将命名空间加到前缀
