@@ -1,4 +1,4 @@
 #支持私库
-kubesphere/ks-apiserver:v3.3.2
+kubesphere/ks-console:v3.3.2
 #支持指定架构
 #--platform=linux/arm64
