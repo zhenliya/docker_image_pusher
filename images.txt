@@ -8,6 +8,7 @@
 #kubesphere/devops-controller:ks-v3.3.2
 #kubesphere/ks-jenkins:v3.3.0-2.319.1
 #kubesphere/s2ioperator:v3.2.1
-kubesphere/s2irun:v3.2.0
+#kubesphere/s2irun:v3.2.0
+prom/alertmanager:v0.23.0
 #支持指定架构
 #--platform=linux/arm64
