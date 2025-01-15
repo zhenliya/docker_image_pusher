@@ -15,6 +15,7 @@
 #prom/prometheus:v2.34.0
 #kubesphere/elasticsearch-oss:6.8.22
 #alpine:3.14
-kubesphere/log-sidecar-injector:v1.2.0
+#kubesphere/log-sidecar-injector:v1.2.0
+jimmidyson/configmap-reload:v0.5.0
 #支持指定架构
 #--platform=linux/arm64
