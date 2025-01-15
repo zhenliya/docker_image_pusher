@@ -14,6 +14,7 @@
 #nacos/nacos-server:v2.4.2.1
 #prom/prometheus:v2.34.0
 #kubesphere/elasticsearch-oss:6.8.22
-alpine:3.14
+#alpine:3.14
+kubesphere/log-sidecar-injector:v1.2.0
 #支持指定架构
 #--platform=linux/arm64
