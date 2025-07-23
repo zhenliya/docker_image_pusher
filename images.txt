@@ -20,7 +20,7 @@
 #kubesphere/fluentbit-operator:v0.13.0
 #kubesphere/fluent-bit:v1.8.11
 #skywalking.docker.scarf.sh/apache/skywalking-oap-server:6.1.0
-# skywalking.docker.scarf.sh/apache/skywalking-ui:6.1.0
-skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.4.0
+skywalking.docker.scarf.sh/apache/skywalking-ui:9.4.0
+# skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.4.0
 #支持指定架构
 #--platform=linux/arm64
