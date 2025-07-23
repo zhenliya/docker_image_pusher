@@ -22,6 +22,7 @@
 #skywalking.docker.scarf.sh/apache/skywalking-oap-server:6.1.0
 # skywalking.docker.scarf.sh/apache/skywalking-ui:9.4.0
 # skywalking.docker.scarf.sh/apache/skywalking-oap-server:9.4.0
-apache/skywalking-swck:v0.8.0
+# apache/skywalking-swck:v0.8.0
+apache/skywalking-java-agent:9.4.0-java17
 #支持指定架构
 #--platform=linux/arm64
